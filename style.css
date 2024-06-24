@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+PL&display=swap');
+
+body{
+    margin: 0%;
+    font-family: 'poppins', sans-serif;
+}
+.half-width img{
+    
+    width: 500px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding-left: 2%;
+}
+
+h1{
+    font-size: 50px;
+}
+.highlight{
+    position: relative;
+    left: 200px;
+    top: 100px;
+    color: rgb(219, 50, 78);
+}
+h3{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.button{
+    position: relative;
+    top: 120px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(230, 78, 103),rgb(252, 72, 102));
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.backimg{
+    background-image: url("header-bg.png");
+}
+section{
+    height: 800px;
+}
+.bio{
+    background-image: url(biography-bg.png);
+}
+.biotext{
+    float: right;
+    padding-bottom: 10%;
+}
+.my-work{
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 100;
+}
+.f1{
+   width:30%;
+   position: relative;
+   left: -40px;
+   top: -1000px;
+}
+.f2{
+   width:30%;
+   position: relative;
+   left: -10px;
+   top: -1000px;
+}
+.f3{
+   position: relative;
+   left: 20px;
+   top: -1000px;
+   width: 30%;
+}
+.img{
+    width: 40%;
+    position: relative;
+    top: 25px;
+}
+.hello{
+    position: relative;
+    top: 100px;
+    left: 80px;
+}
+.simple{
+    font-size: medium;
+    position: relative;
+    top: 100px;
+}
+.biog{
+    position: relative;
+    top: 60px;
+
+}
+.biop{
+    position: relative;
+    top: 50px;
+}
+.button1{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(230, 78, 103),rgb(252, 72, 102));
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: relative;
+    top: 75px;
+}
